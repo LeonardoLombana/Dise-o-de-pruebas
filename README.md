@@ -34,8 +34,11 @@ Ejecutado segun la parametrización de los requerimientos de la app, de acuerdo 
 
 ## Ejecución de Pruebas 
 1. Clona el repositorio localmente.
-2. Visualizar el archivo correspondiente a los casos de prueba.
-3. Visualizar el archivo a los informes de errores.
+2. Visualizar el archivo correspondiente al mapa mental.
+3. Visualizar el archivo correspondiente a las clases de equivalencia campo nombre y apellido.
+4. Visualizar el archivo correspondiente a las clases de equivalencia del campo dirección.
+5. Visualizar el archivo correspondiente a las casos de prueba.
+6. Visualizar el archivo a los informes de errores.
 
 > [!IMPORTANT]
 > Estado del proyecto
